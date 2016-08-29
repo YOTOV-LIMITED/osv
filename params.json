@@ -1,0 +1,6 @@
+{
+  "name": "Osv",
+  "tagline": "OSV in Rennes project main repository",
+  "body": "# OSV in Rennes\r\n\r\nThis repository contains all the ressources produced by the \"OSV in Rennes\" team : schematics, code, demos, 3d models...\r\n\r\n## Story\r\n- In early 2015, some folks from the FabLab of Rennes ([LabFab](http://labfab.fr)) discovered the Tabby platform in Shenzhen, China\r\n- Back in France, a team of academics, companys and makers had already bonded and they decided to build together two Tabby EVO in Rennes with the OSV team\r\n- The next step of the project is a OSV hackathon on April 27th-29th 2016, join us !\r\n\r\n![CampOSV flyer](https://raw.githubusercontent.com/telecombretagne/osv/master/Flyer.CampOSV.png)\r\n\r\n## Ressources\r\n- The Tabby EVO 3D models are available [here](https://www.osvehicle.com). Based on a work at https://www.osvehicle.com, licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. \r\n- Demos and code are available [here](https://www.osvehicle.com)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
